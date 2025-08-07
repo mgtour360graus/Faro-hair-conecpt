@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour hassounds="0" apprev="21009" start="node1" appversion="7.1.10">
+  <panorama id="node1">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" height="3000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-182.094">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata tags="LUCAS-Farohairconecpt" customnodeid="" description="Faro hair conecpt" heading="-182.094" info="" author="Faro hair conecpt" copyright="" title="Faro hair conecpt" source="" latitude="-32.03286930" datetime="" comment="" nodeid="node1" longitude="-52.09783035"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderradius="1" textalpha="1" height="20" background="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" target="-177.6/-5.9/128.6" skinid="ht_node" pan="-16.02" id="Point01" tilt="-2.9" title="Faro hair conecpt" url="{node2}" distance="5.13277"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomoutpause="1" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node2">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" height="3000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="0">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata tags="LUCAS-Farohairconecpt" customnodeid="" description="Faro hair conecpt" heading="0" info="" author="Faro hair conecpt" copyright="" title="Faro hair conecpt" source="" latitude="-32.03291477" datetime="" comment="" nodeid="node2" longitude="-52.09783973"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderradius="1" textalpha="1" height="20" background="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" target="170.0/0.0/117.0" skinid="ht_node" pan="-357.24" id="Point01" tilt="-10.01" title="Faro hair conecpt" url="{node1}" distance="5.13277"/>
+      <hotspot description="" target="-158.0/0.0/117.0" skinid="ht_node" pan="-230.96" id="Point02" tilt="0.8" title="Faro hair conecpt" url="{node3}" distance="3.05167"/>
+      <hotspot description="" target="10.0/0.0/126.6" skinid="ht_node" pan="-134.95" id="Point03" tilt="-0.65" title="Faro hair conecpt" url="{node4}" distance="2.56962"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomoutpause="1" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node3">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" height="3000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="82.7995">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata tags="LUCAS-Farohairconecpt" customnodeid="" description="Faro hair conecpt" heading="82.7995" info="" author="Faro hair conecpt" copyright="" title="Faro hair conecpt" source="" latitude="-32.03292103" datetime="" comment="" nodeid="node3" longitude="-52.09787125"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderradius="1" textalpha="1" height="20" background="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" target="-30.0/0.0/126.6" skinid="ht_node" pan="-294.15" id="Point01" tilt="-1.27" title="Faro hair conecpt" url="{node2}" distance="3.05167"/>
+      <hotspot description="" target="128.2/-0.0/137.9" skinid="ht_node" pan="-110.62" id="Point02" tilt="-2.54" title="Faro hair conecpt" url="{node7}" distance="3.86693"/>
+      <hotspot description="" target="32.0/0.0/117.0" skinid="ht_node" pan="-9.29" id="Point03" tilt="2.46" title="Faro hair conecpt" url="{node4}" distance="4.92925"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomoutpause="1" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node7">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" height="3000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-43.4514">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata tags="LUCAS-Farohairconecpt" customnodeid="" description="Faro hair conecpt" heading="-43.4514" info="" author="Faro hair conecpt" copyright="" title="Faro hair conecpt" source="" latitude="-32.03295513" datetime="" comment="" nodeid="node7" longitude="-52.09787930"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderradius="1" textalpha="1" height="20" background="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" target="11.5/-2.6/100.0" skinid="ht_node" pan="-247.91" id="Point01" tilt="-2.35" title="Faro hair conecpt" url="{node8}" distance="2.85275"/>
+      <hotspot description="" target="73.0/0.0/108.2" skinid="ht_node" pan="-57.77" id="Point02" tilt="-2.71" title="Faro hair conecpt" url="{node3}" distance="3.86693"/>
+      <hotspot description="" target="95.0/0.0/126.6" skinid="ht_node" pan="-129.71" id="Point03" tilt="-1.01" title="Faro hair conecpt" url="{node5}" distance="4.76017"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomoutpause="1" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node8">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" height="1632" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="1632">
+      <level preload="0" predecode="0" width="1632" height="1632"/>
+      <level preload="0" predecode="0" width="816" height="816"/>
+      <level preload="1" predecode="1" width="408" height="408"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="201.929">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata tags="LUCAS-Farohairconecpt" customnodeid="" description="Faro hair conecpt" heading="201.929" info="" author="Faro hair conecpt" copyright="" title="Faro hair conecpt" source="" latitude="-32.03298043" datetime="" comment="" nodeid="node8" longitude="-52.09788432"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderradius="1" textalpha="1" height="20" background="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" target="-58.0/0.0/100.0" skinid="ht_node" pan="-130.67" id="Point01" tilt="-2.31" title="Faro hair conecpt" url="{node7}" distance="2.85275"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomoutpause="1" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node4">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" height="3000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="141.366">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata tags="LUCAS-Farohairconecpt" customnodeid="" description="Faro hair conecpt" heading="141.366" info="" author="Faro hair conecpt" copyright="" title="Faro hair conecpt" source="" latitude="-32.03293097" datetime="" comment="" nodeid="node4" longitude="-52.09782029"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderradius="1" textalpha="1" height="20" background="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" target="1.3/0.2/117.0" skinid="ht_node" pan="-52.7" id="Point01" tilt="-2.18" title="Faro hair conecpt" url="{node5}" distance="4.49929"/>
+      <hotspot description="" target="15.0/0.0/148.1" skinid="ht_node" pan="-209.24" id="Point02" tilt="-1.24" title="Faro hair conecpt" url="{node2}" distance="2.56962"/>
+      <hotspot description="" target="165.0/0.0/136.9" skinid="ht_node" pan="-144.86" id="Point03" tilt="-3.37" title="Faro hair conecpt" url="{node3}" distance="4.92925"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomoutpause="1" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node5">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" height="3000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="198.672">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata tags="LUCAS-Farohairconecpt" customnodeid="" description="Faro hair conecpt" heading="198.672" info="" author="Faro hair conecpt" copyright="" title="Faro hair conecpt" source="" latitude="-32.03297019" datetime="" comment="" nodeid="node5" longitude="-52.09783203"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderradius="1" textalpha="1" height="20" background="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" target="65.0/0.0/136.9" skinid="ht_node" pan="-337.53" id="Point01" tilt="-0.05" title="Faro hair conecpt" url="{node6}" distance="2.34483"/>
+      <hotspot description="" target="123.0/0.0/126.6" skinid="ht_node" pan="-170.86" id="Point02" tilt="-3.89" title="Faro hair conecpt" url="{node4}" distance="4.49929"/>
+      <hotspot description="" target="34.0/0.0/136.9" skinid="ht_node" pan="-66.09" id="Point03" tilt="-2.5" title="Faro hair conecpt" url="{node7}" distance="4.76017"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomoutpause="1" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <panorama id="node6">
+    <input levelbiashidpi="1.000" leveltilesize="510" overlap="1" levelingpitch="0" height="3000" levelbias="0.400" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="3000">
+      <level preload="0" predecode="0" width="3000" height="3000"/>
+      <level preload="0" predecode="0" width="1500" height="1500"/>
+      <level preload="0" predecode="0" width="750" height="750"/>
+      <level preload="1" predecode="1" width="375" height="375"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view fovmode="2" pannorth="-116.604">
+      <start pan="0" tilt="0" projection="4" fov="100"/>
+      <flyin pan="0" tilt="-90" projection="9" fov="170"/>
+      <min pan="0" tilt="-90" fovpixel="2"/>
+      <max fovfisheye="360" pan="360" tilt="90" fovstereographic="330" fov="140" scaletofit="1"/>
+    </view>
+    <userdata tags="LUCAS-Farohairconecpt" customnodeid="" description="Faro hair conecpt" heading="-116.604" info="" author="Faro hair conecpt" copyright="" title="Faro hair conecpt" source="" latitude="-32.03299123" datetime="" comment="" nodeid="node6" longitude="-52.09783370"/>
+    <hotspots wordwrap="1" width="180" smoothmovement="0" height="20">
+      <label wordwrap="1" borderradius="1" textalpha="1" height="20" background="1" backgroundalpha="1" textcolor="0x000000" borderalpha="1" border="1" backgroundcolor="0xffffff" bordercolor="0x000000" enabled="1" width="180"/>
+      <polystyle backgroundalpha="0.25098" borderalpha="1" backgroundcolor="0x0000ff" bordercolor="0x0000ff" mode="0" handcursor="1"/>
+      <hotspot description="" target="-170.0/0.0/126.6" skinid="ht_node" pan="-102.24" id="Point01" tilt="-3.68" title="Faro hair conecpt" url="{node5}" distance="2.34483"/>
+    </hotspots>
+    <media/>
+    <transition zoomfov="40" blendcolor="0x000000" delay="none" softedge="0" zoomafteroutfov="40" zoomin="0" type="crossdissolve" enabled="1" zoomspeed="2" blendtime="1" zoomafterinfov="140" zoomoutpause="1" zoomout="0"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" clipsrandom="0" animsequence="Animation01"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" lockedkeyboardzoom="0" contextfullscreen="1" hideabout="0" contextprojections="0" zoomcentercursor="1" rubberband="0" invertwheel="0" sensitivity="8" lockedkeyboard="0" speedwheel="1" dblclickfullscreen="0" invertcontrol="1" contextvr="1"/>
+  </panorama>
+  <masternode>
+    <userdata tags="" title="Faro hair conecpt" description="Faro hair conecpt" comment="Faro hair conecpt" author="Faro hair conecpt" copyright="Faro hair conecpt"/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
